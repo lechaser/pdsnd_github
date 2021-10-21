@@ -34,10 +34,10 @@ def get_filters():
     month = input("Please type the month you want to get results: (use all for all)\n").lower()
 
     # our list of months
-    month_list = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
+    months = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
 
     # try again while input value is not in our list
-    while month not in month_list:
+    while month not in months:
         month = input("the month typed is not correct. Please, try again!\n").lower()
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
