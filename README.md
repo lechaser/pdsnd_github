@@ -8,10 +8,10 @@ Bikeshare project for Udacity Programing for DataScience with Python
 
 ### Description
 This project is the submitted code for the Python project included into the Udacity "Programming for Data
-Science NanoDegree" 
+Science NanoDegree"
 
 ### Files used
-Include the files used
+The files used for this project are: bikeshare.py and the datasets chicago.csv, new_york_city.csv and washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+All credits to the Udacity NanoDegree program lessons and to my Coding skills!
