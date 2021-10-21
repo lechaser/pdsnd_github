@@ -7,7 +7,8 @@ This Project was created on 20th of October 2021
 Bikeshare project for Udacity Programing for DataScience with Python
 
 ### Description
-Describe what your project is about and what it does
+This project is the submitted code for the Python project included into the Udacity "Programming for Data
+Science NanoDegree" 
 
 ### Files used
 Include the files used
